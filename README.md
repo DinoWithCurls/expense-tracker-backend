@@ -41,4 +41,3 @@ The following tech has been used to create this part:
 `./initialise.sh`
 `./migrate.sh`
 
-The code is set up.
